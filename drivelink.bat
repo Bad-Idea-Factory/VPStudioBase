@@ -1,2 +1,2 @@
 del Content
-mklink /j "D:\Documents\Unreal Projects\VPStudioBase" "G:\My Drive\UEContent"
+mklink /j "D:\Documents\Unreal Projects\VPStudioBase\Content" "G:\My Drive\UEContent"
