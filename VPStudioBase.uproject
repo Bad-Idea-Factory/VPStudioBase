@@ -22,7 +22,7 @@
 		},
 		{
 			"Name": "NDIIOPlugin",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "LiveLinkOverNDisplay",
