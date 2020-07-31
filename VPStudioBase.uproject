@@ -126,6 +126,18 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "TimecodeSynchronizer",
+			"Enabled": true
+		},
+		{
+			"Name": "LinearTimecode",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioCaptureTimecodeProvider",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
